@@ -1,9 +1,14 @@
 <!DOCTYPE html>
-<html>
-<head><title>Tuto Étagère</title></head>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Tuto pour construire une étagère en bois.">
+    <title>Tuto Étagère</title>
+</head>
 <body>
-  <h1>Étagère en bois</h1>
-  <p>Matériel : planches, équerres, vis, perceuse.</p>
-  <p>Étapes : Couper, fixer, assembler.</p>
+    <h1>Étagère en bois</h1>
+    <p>Matériel : planches, équerres, vis, perceuse.</p>
+    <p>Étapes : Couper, fixer, assembler.</p>
 </body>
 </html>
