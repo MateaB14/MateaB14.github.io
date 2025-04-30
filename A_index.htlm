@@ -11,7 +11,7 @@
     <p>Matériel : planches, équerres, vis, perceuse.</p>
     <p>Étapes : Couper, fixer, assembler.</p>
 </body>
-</html> background-image: url("chemin/vers/image.jpg");
+</html> background-image: url("https://pierimport.imgix.net/produits/etagere-murale-bois-massif-bordure-naturelle-120-cm-melbourne-5fe236234eb5c.jpg?auto=format&max-h=1500&max-w=1500&fit=fill&fill-color=ffffff");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
