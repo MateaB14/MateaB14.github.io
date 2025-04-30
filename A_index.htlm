@@ -11,4 +11,7 @@
     <p>Matériel : planches, équerres, vis, perceuse.</p>
     <p>Étapes : Couper, fixer, assembler.</p>
 </body>
-</html>
+</html> background-image: url("chemin/vers/image.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
