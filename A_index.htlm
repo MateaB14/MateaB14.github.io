@@ -3,15 +3,96 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Tuto pour construire une étagère en bois.">
-    <title>Tuto Étagère</title>
+    <title>Tutoriel : Construire une étagère en bois</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        section {
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        ul {
+            line-height: 1.6;
+        }
+        .image-container {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .image-container img {
+            width: 80%;
+            max-width: 600px;
+        }
+        footer {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
 </head>
 <body>
-    <h1>Étagère en bois</h1>
-    <p>Matériel : planches, équerres, vis, perceuse.</p>
-    <p>Étapes : Couper, fixer, assembler.</p>
+    <header>
+        <h1>Tutoriel : Construire une étagère en bois</h1>
+    </header>
+
+    <section>
+        <h2>Matériel nécessaire</h2>
+        <ul>
+            <li>Planches de bois (dimensions à ajuster selon la taille de l'étagère)</li>
+            <li>Vis à bois</li>
+            <li>Perceuse</li>
+            <li>Scie (si nécessaire pour couper le bois)</li>
+            <li>Ponceuse ou papier de verre</li>
+            <li>Peinture ou vernis (optionnel)</li>
+        </ul>
+
+        <h2>Étape 1 : Préparation des matériaux</h2>
+        <p>Avant de commencer, assurez-vous que toutes les pièces de bois sont découpées selon les dimensions que vous souhaitez pour l’étagère. Si nécessaire, utilisez une scie pour ajuster la taille des planches.</p>
+        <div class="image-container">
+            <!-- Image d'étagère pour l'étape 1 -->
+            <img src="https://www.ikea.com/us/en/images/products/eket-wall-shelf-unit-white__0734849_pe738191_s5.jpg" alt="Découpe des planches de bois">
+        </div>
+
+        <h2>Étape 2 : Ponçage des planches</h2>
+        <p>Poncez les bords des planches de bois pour enlever les échardes et rendre les surfaces lisses. Cela garantit que l’étagère soit sécuritaire à utiliser.</p>
+        <div class="image-container">
+            <!-- Image d'étagère pour l'étape 2 -->
+            <img src="https://www.ikea.com/us/en/images/products/billy-bookcase-white__0903036_pe611822_s5.jpg" alt="Ponçage des planches">
+        </div>
+
+        <h2>Étape 3 : Assemblage de l'étagère</h2>
+        <p>Une fois les planches prêtes, commencez à les assembler en utilisant des vis à bois. Veillez à aligner les planches correctement pour éviter que l'étagère soit bancale.</p>
+        <div class="image-container">
+            <!-- Image d'étagère pour l'étape 3 -->
+            <img src="https://www.ikea.com/us/en/images/products/hemnes-bookcase-with-glass-doors-white__0734848_pe738183_s5.jpg" alt="Assemblage de l'étagère">
+        </div>
+
+        <h2>Étape 4 : Finitions</h2>
+        <p>Une fois l’étagère assemblée, vous pouvez appliquer une couche de peinture ou de vernis pour la protéger et lui donner une belle finition.</p>
+        <div class="image-container">
+            <!-- Image d'étagère pour l'étape 4 -->
+            <img src="https://www.ikea.com/us/en/images/products/lack-wall-shelf-white__0637250_pe702000_s5.jpg" alt="Finition de l'étagère">
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 - Tutoriel Étape par Étape pour Construire une Étagère en Bois</p>
+    </footer>
 </body>
-</html> background-image: url("https://pierimport.imgix.net/produits/etagere-murale-bois-massif-bordure-naturelle-120-cm-melbourne-5fe236234eb5c.jpg?auto=format&max-h=1500&max-w=1500&fit=fill&fill-color=ffffff");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+</html>
