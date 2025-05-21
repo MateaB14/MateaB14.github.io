@@ -3,50 +3,95 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tutoriel : Fabriquer une Étagère</title>
-  <link rel="stylesheet" href="style.css">
+  <title>Tutoriel Étagère Esthétique</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f4ef;
+      color: #333;
+    }
+
+    header {
+      background-color: #d2b48c;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    main {
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem;
+    }
+
+    section {
+      margin-bottom: 3rem;
+    }
+
+    img {
+      max-width: 100%;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    a.button {
+      display: inline-block;
+      margin-top: 1rem;
+      background-color: #8c735d;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 8px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #eee;
+      margin-top: 2rem;
+    }
+  </style>
 </head>
 <body>
 
-  <header>
-    <h1>Tutoriel de Bricolage : Fabriquer une Étagère Murale</h1>
-    <p>Suivez ce guide étape par étape pour créer une étagère élégante et fonctionnelle.</p>
-  </header>
+<header>
+  <h1>Tutoriel : Créez une Étagère Esthétique</h1>
+  <p>Un guide pas à pas pour une étagère stylée et pratique.</p>
+</header>
 
-  <main>
-    <section class="etape">
-      <h2>Étape 1 : Préparer le Matériel</h2>
-      <img src="images/etape1.jpg" alt="Préparation du matériel">
-      <p>Rassemblez tous les matériaux nécessaires : planches en bois, vis, équerres, perceuse, niveau, etc.</p>
-    </section>
+<main>
 
-    <section class="etape">
-      <h2>Étape 2 : Mesurer et Découper</h2>
-      <img src="images/etape2.jpg" alt="Mesure et découpe du bois">
-      <p>Utilisez un mètre pour mesurer précisément les dimensions, puis découpez les planches avec soin.</p>
-    </section>
+  <section>
+    <h2>1. Choisir le style d’étagère</h2>
+    <p>Avant de commencer, choisissez un style qui correspond à votre déco : industriel, bohème, minimaliste, etc.</p>
+    <img src="https://medias.maisonsdumonde.com/image/upload/ar_1:1,c_fill,f_auto,q_auto,w_732/v1/img/etagere-en-bois-de-manguier-massif-et-fibre-vegetale-1000-9-23-229951_7.jpg" alt="Étagère en bois de manguier">
+  </section>
 
-    <section class="etape">
-      <h2>Étape 3 : Assembler et Fixer</h2>
-      <img src="images/etape3.jpg" alt="Fixation de l'étagère">
-      <p>Vissez les éléments ensemble et fixez-les au mur en utilisant un niveau à bulle pour assurer l’alignement.</p>
-    </section>
+  <section>
+    <h2>2. Matériaux recommandés</h2>
+    <p>Optez pour du bois massif, du métal ou une combinaison. L’acajou, le pin ou le chêne sont parfaits.</p>
+    <img src="https://media.madeindesign.com/cdn-cgi/image/fit=pad,background=white,format=webp,width=800,height=800,quality=80/nuxeo/products/2/3/etagere-pi-acajou-ethnicraft_madeindesign_414022_original.jpg" alt="Étagère Ethnicraft en acajou">
+  </section>
 
-    <section class="etape">
-      <h2>Résultat Final</h2>
-      <img src="images/etagere-finie.jpg" alt="Étagère murale finie">
-      <p>Admirez votre nouvelle étagère, pratique et esthétique !</p>
-    </section>
+  <section>
+    <h2>3. Montage & finitions</h2>
+    <p>Assemblez avec des vis solides. Terminez avec une huile protectrice ou un vernis mat pour garder l’aspect naturel.</p>
+    <p>Ajoutez vos objets déco, plantes et livres préférés pour un effet “magazine”.</p>
+  </section>
 
-    <section class="ressource">
-      <h3>Ressource Utile</h3>
-      <p>Consultez ce <a href="https://www.leroymerlin.fr/idees-conseils/fabriquer-une-etagere-murale.html" target="_blank">guide Leroy Merlin</a> pour des conseils supplémentaires.</p>
-    </section>
-  </main>
+  <section>
+    <h2>4. Où acheter ou s’inspirer ?</h2>
+    <p>Vous pouvez trouver de l’inspiration ou acheter des étagères similaires sur le site Ikamoon :</p>
+    <a href="https://ikamoon.com/cat-notre-selection-de-rangements-454.htm/11-etagere?utm_source=google&utm_medium=cpc&utm_campaign=%5BSearch%5D+Transactional&utm_id=22386438641&gad_source=1&gad_campaignid=22386438641&gbraid=0AAAAADhfL0c2ea2CQ6xylHKlFJrbezK6l&gclid=EAIaIQobChMIv4bu8py0jQMV0pNoCR0CBQymEAAYAiAAEgL2a_D_BwE" class="button" target="_blank">Voir sur Ikamoon</a>
+  </section>
 
-  <footer>
-    <p>&copy; 2025 - Tutoriel par Bricoleur Passionné</p>
-  </footer>
+</main>
+
+<footer>
+  <p>© 2025 – Créé avec ♥ pour les amateurs de design et de bricolage.</p>
+</footer>
 
 </body>
 </html>
